@@ -13,6 +13,9 @@ then generate the answers files and compress the solution files to be submitted 
   <img width="700px" src="files/scoreboard.png" alt="scoreboard"/>
 </p>
 
+If you are also curious about how to solve this year problem check the [problem statement][problem-statement].
+
 [nasreddine-linkedin-profile]: https://www.linkedin.com/in/bacali/
 [nesrine-linkedin-profile]: https://www.linkedin.com/in/sghaiernesrine/
 [google-judging-system]: https://hashcodejudge.withgoogle.com/
+[problem-statement]: files/problem_statement.pdf
