@@ -9,7 +9,9 @@ The solution is written in `Java` programming language. The solution can read al
 then generate the answers files and compress the solution files to be submitted in the [Google Hashcode Judging System]
 [google-judging-system].
 
-<img align="center" src="files/scoreboard.png" alt="scoreboard">
+<p align="center">
+  <img width="700px" src="files/scoreboard.png" alt="scoreboard"/>
+</p>
 
 [nasreddine-linkedin-profile]: https://www.linkedin.com/in/bacali/
 [nesrine-linkedin-profile]: https://www.linkedin.com/in/sghaiernesrine/
